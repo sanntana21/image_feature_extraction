@@ -6,3 +6,15 @@
 *.dat
 .idea
 __pycache__
+
+# Archivos y carpetas generados por PyCharm
+.idea/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Otros archivos innecesarios
+*.log
+*.tmp
+.DS_Store
