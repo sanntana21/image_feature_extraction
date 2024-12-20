@@ -22,7 +22,8 @@ Las imágenes deben organizarse con la siguiente estructura desde el directorio 
 - 🧰 `utils.py`: Funcionalidades auxiliares.  
 - 📦 `requirements.txt`: Instalación de dependencias.  
 - 📥 `descargar_datasets.py`: Descarga los archivos `.npz` de todas las clases (train y test).  
-- 📤 `split_datasets.py`: Divide los datasets en carpetas `.png` según clase.  
+- 📤 `split_datasets.py`: Divide los datasets en carpetas `.png` según clase.
+- 📒 `exported_main.py`: Notebook principal versión py.   
 
 
 ## **⚙️ Requisitos**  
