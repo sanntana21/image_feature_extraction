@@ -2,7 +2,8 @@
 
 - **👨‍🎓 Alumno:** Álvaro Santana Sánchez  
 - **📅 Fecha:** Diciembre 2024  
-- **💻 IDE:** PyCharm 
+- **💻 IDE:** PyCharm
+- **🐱 GIT:** https://github.com/sanntana21/image_feature_extraction
 
 ## **📂 Estructura del Dataset**  
 Las imágenes deben organizarse con la siguiente estructura desde el directorio raíz:  
