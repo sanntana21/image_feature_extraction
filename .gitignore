@@ -1,0 +1,6 @@
+*/.venv
+/ECI/mnist_data_with_background
+*.html
+*.png
+*.csv
+*.dat
